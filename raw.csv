@@ -1,0 +1,4 @@
+﻿Security Requirement,Source Name,Source,Status,Description
+Azure - Always Enable Storage account Encryption,Azure Blob Storage,Azure Blob Storage,Closed,fdafsd
+Azure - Always use HTTPS for SAS,Azure Blob Storage,Azure Blob Storage,Open,fddasf
+Azure - Limit access to services using SAS,Azure Blob Storage,Azure Blob Storage,Exception,fsadfas
